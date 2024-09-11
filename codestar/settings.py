@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-goca7-djangoblog-02u1cahhhjp.ws.codeinstitute-ide.net',
-    ' .herokuapp.com',]
+    'codestar-gp-02a5e7417be8.herokuapp.com',]
 
 
 # Application definition
